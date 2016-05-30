@@ -46,7 +46,7 @@ gulp.task('less', function() {
 gulp.task('staticStyleguide:generate', function() {
   return gulp.src(scssWild)
     .pipe(styleguide.generate({
-        title: 'My First Hosted Styleguide',
+        title: 'Stackoverflow Style guide',
         rootPath: styleguideBuildPath,
         appRoot: styleguideAppRoot
       }))

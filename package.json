@@ -9,9 +9,9 @@
   "author": "Anil Kumar",
   "license": "ISC",
   "devDependencies": {
-    "gulp-css": "^0.1.0",
-    "gulp": "^3.9.0",
-    "sc5-styleguide": "^0.3.26",
-    "gulp-less": "^3.0.3"
+    "gulp-css": "0.1.0",
+    "gulp": "3.9.0",
+    "sc5-styleguide": "0.3.26",
+    "gulp-less": "3.0.3"
   }
 }
